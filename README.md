@@ -128,11 +128,7 @@ Examples:
 
 ### Generated Samples
 
-Add generated images here.
-
-```markdown
 ![sample1](progan_sample.jpeg)
-```
 
 ---
 
